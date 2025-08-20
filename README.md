@@ -62,3 +62,4 @@ This script provides a full pipeline for training a CNN to classify images in th
 
 #OUTPUT
 
+<img width="1915" height="1067" alt="Image" src="https://github.com/user-attachments/assets/4e16723f-5bcc-49d0-96e5-9d1678ef44e2" />
